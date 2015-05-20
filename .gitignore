@@ -1,0 +1,6 @@
+# Standard gitignore for play apps
+gs
+project/project
+project/target
+target
+tmp
